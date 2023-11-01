@@ -1,0 +1,8 @@
+name: DropEvent
+version: ${project.version}
+main: de.glowman554.dropevent.DropEventMain
+api-version: 1.19
+author: Glowman554
+commands:
+  dropevent:
+    permission: dropevent.use
